@@ -1,4 +1,4 @@
-# PasswordLock
+# Validate_Password
 
 Learning Elixiring by developing building a GenServer.
 Here we assume only **single user** for our convenience.
